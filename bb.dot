@@ -1,9 +1,0 @@
-
-        digraph G {
-            fontname="Helvetica,Arial,sans-serif"
-            node [fontname="Helvetica,Arial,sans-serif"]
-            edge [fontname="Helvetica,Arial,sans-serif"]
-            a0 [shape=none label=<
-            <TABLE border="0" cellspacing="10" cellpadding="10">
-        
-        <TR><TD bgcolor="blue">0</TD><TD bgcolor="white">0</TD></TR><TR><TD bgcolor="white">0</TD><TD bgcolor="white">0</TD></TR></TABLE>>];}
